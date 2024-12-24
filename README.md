@@ -2,6 +2,16 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here’s a little more about me:
 
+
+# Connect with Me on TikTok 🎥
+
+Love short, creative, and fun content? Check out my TikTok profile for updates, tutorials, and behind-the-scenes moments!  
+
+[![TikTok](https://img.shields.io/badge/Follow%20Me%20on%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kingjohan975)
+
+---
+
+💡 *Click the button above to explore my TikTok content and follow me for more updates!*
 # Connect with Me on WhatsApp 💬
 
 Do you have questions, or need help with a project, or just want to chat? Reach out to me on WhatsApp!  
