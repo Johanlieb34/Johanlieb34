@@ -1,3 +1,4 @@
+![Image](https://i.ibb.co/R9DYTSk/56b9b6719477fb0dac7f41e6014bc621.jpg)
 # Hi there, I'm [KING JOHAN] 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here’s a little more about me:
