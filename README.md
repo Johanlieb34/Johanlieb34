@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [KING JOHAN] 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here’s a little more about me:
 
