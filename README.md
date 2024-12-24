@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here’s a little more about me:
 
+# Connect with Me on WhatsApp 💬
+
+Do you have questions, or need help with a project, or just want to chat? Reach out to me on WhatsApp!  
+
+[![WhatsApp](https://img.shields.io/badge/Message%20Me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349134457509)
+
+---
+
+💡 *Click the button above to start a chat with me directly on WhatsApp!*
 ---
 
 ## 🔥 About Me:
