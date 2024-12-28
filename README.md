@@ -1,7 +1,8 @@
 ![Image](https://i.ibb.co/R9DYTSk/56b9b6719477fb0dac7f41e6014bc621.jpg)
 # Hi there, I'm [KING JOHAN] 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge. Here’s a little more about me:
+![video](https://camo.githubusercontent.com/f33e4316beb5e604d78807f945eb4454165a9367ab000918c42780458be0246a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f594d393164367a3369635141414141692f616e696d652e676966)
+
 
 
 # Connect with Me on TikTok 🎥
